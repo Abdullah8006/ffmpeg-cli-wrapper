@@ -146,7 +146,7 @@ mvn clean javadoc:aggregate scm-publish:publish-scm
 Install FFmpeg on Ubuntu
 -----------------
 
-We only the support the original FFmpeg, not the libav version. Before Ubuntu 12.04, and in 15.04
+We only support the original FFmpeg, not the libav version. Before Ubuntu 12.04, and in 15.04
 and later the original FFmpeg is shipped. If you have to run on a version with libav, you can install
 FFmpeg from a PPA, or using the static build. More information [here](http://askubuntu.com/q/373322/34845)
 
